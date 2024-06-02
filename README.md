@@ -1,1 +1,1 @@
-<h1>PING</h1>
+<h1>PING & IP Changer</h1>
